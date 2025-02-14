@@ -1,0 +1,141 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+
+
+
+.container{
+    max-width: 1260px;
+    margin: auto;
+    
+}
+
+header{
+   max-width: 1440px;
+   margin: auto;
+   background: radial-gradient(54.93% 108.63% at 11.98% 19.48%, #131313 0%, rgba(0, 0, 0, 0.84) 100%); 
+    
+}
+
+
+nav{
+    display: flex; 
+    gap: 370px;
+    padding-top: 50px;
+}
+
+header nav .logo{
+    margin-left: 80px;
+}
+
+ul{
+    display: flex;
+    gap: 78px;
+    margin-left: 100px;
+}
+.phone_h2{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22.27px;
+    letter-spacing: 0%;
+    color: #FFFFFFA6;
+    
+}
+.nav_ul{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22.27px;
+    letter-spacing: 0%;
+    color: #FFFFFF8C;
+   
+}
+
+.nav_ul:hover{
+color: #ffffff;
+}
+
+.phone_h1{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 103.13px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    
+}
+.phone_p1{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32.44px;
+    letter-spacing: 0%;
+    color: #c0bbbb;
+    
+}
+.phone_buton1{
+    width: 235px;
+    height: 81px;
+    top: 691px;
+    left: 114px;
+    border-radius: 23px;
+    background: linear-gradient(270deg, #2200F0 -7.02%, #6EADE8 100%);
+
+    
+}
+.phone_buton2{
+    width: 235px;
+    height: 81px;
+    top: 691px;
+    left: 114px;
+    border-radius: 23px;
+    background: transparent;
+
+    
+}
+.btn .phone_buton2{
+    margin-left: 86px;
+}
+.btn{
+    padding-top: 123px;
+}
+.phone_p1{
+    padding-top: 21px;
+}
+.header_main{
+    margin-left: 80px;
+    margin-top: 239px;
+}
+.header_main_footer .son{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 1150px;
+    margin-top: 158px;
+    
+}
+.phone_p2{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    letter-spacing: 0%;
+    color: #FFFFFF8C;
+    
+}
+.phone_p2:hover{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    letter-spacing: 0%;
+    color: white;
+    
+}
